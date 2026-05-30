@@ -1,4 +1,4 @@
-# DSA-2-CASESTUDIES
+# DSA-2-Co-1-CASESTUDIES
 # Flipkart Product Search and Inventory Management System using AVL Tree
 
 ## Student Details
