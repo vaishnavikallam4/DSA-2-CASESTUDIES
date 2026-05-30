@@ -2,7 +2,6 @@
 # Flipkart Product Search and Inventory Management System using AVL Tree
 
 ## Student Details
-- Name: K. Vaishnavi
 - Roll No: 2520030198
 - Subject: DSA-2
 - CO: CO-1
@@ -26,5 +25,4 @@ Search operation completed.
 - Insert: O(log n)
 - Delete: O(log n)
 
-## Author
-K. Vaishnavi
+
